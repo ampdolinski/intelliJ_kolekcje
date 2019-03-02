@@ -1,0 +1,6 @@
+Imie=Adam
+Nazwisko=Qwein
+Wiek=99
+####################
+Imie=quit
+Nazwisko=quit

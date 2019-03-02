@@ -1,0 +1,22 @@
+
+_squid:UselessImportCheck"/Remove this unused import 'java.io.FileWriter'.(Ã‘ÅÃıÿÿÿÿ8ÍíÊİ-
+Fsquid:S11480"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8â»„Ş-
+[squid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8ÍíÊİ-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¥°¸ï8â»„Ş-
+[
+squid:S106,"9Replace this use of System.out or System.err by a logger.(àú¨ğşÿÿÿÿ8¶‚Ş-
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8·°Şİ-
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ãı‘ûÿÿÿÿÿ8¶‚Ş-
+Fsquid:S11486"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Ä™”Ş-
+Xsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8â»„Ş-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(àİ®Ò8¥Õİ-
+Msquid:EmptyStatementUsageCheck"Remove this empty statement.(àİ®Ò8¥Õİ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıÍÏşÿÿÿÿ8â»„Ş-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(õ£ğ 8¶‚Ş-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ĞÉ·8ÛÂÈİ-

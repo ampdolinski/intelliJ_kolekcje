@@ -1,0 +1,17 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞªËøøÿÿÿÿ8ŠÂ—¿-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú•»£8³®¦¿-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(š¸º¼ıÿÿÿÿ8Âğ•¬-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(²Ö¯²ıÿÿÿÿ8Âğ•¬-
+Isquid:S1659"(Declare "pozycjaMin" on a separate line.(Íıš»ÿÿÿÿÿ8Âğ•¬-
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ƒŸëİúÿÿÿÿ8Úã¾-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡‘¹„8Âğ•¬-
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ıçéª8äœâ¾-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿¤ú8Âğ•¬-
+usquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒĞìûÿÿÿÿ
+Isquid:S1659"(Declare "pozycjaMax" on a separate line.(Ã¨×¥üÿÿÿÿ8Âğ•¬-
